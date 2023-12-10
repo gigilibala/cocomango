@@ -28,3 +28,6 @@ jobs:
       - name: Install dependencies
         run: |
           pipenv install --dev
+      - name: Run lint
+        run: |
+          pipenv run black src
