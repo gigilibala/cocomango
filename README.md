@@ -2,7 +2,7 @@
 
 # How to use
 
-Start a `pipenv` shell first
+Start a `pipenv` shell:
 
 ```bash
 pipenv shell
@@ -11,5 +11,5 @@ pipenv shell
 To install packages do:
 
 ```bash
-pipenv install
+pipenv install --dev
 ```
