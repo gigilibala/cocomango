@@ -1,0 +1,10 @@
+name: simple
+version: 0.0.1
+description: A test for the new robotics framework I'm building
+license: GNU v3.0
+homepage: https://github.com/gigilibala/cocomango/examples/simple
+bugs:
+  url: https://github.com/gigilibala/cocomongo/issues
+  email: gigilibala4@gmail.com
+
+type: Final
