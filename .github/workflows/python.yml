@@ -30,4 +30,4 @@ jobs:
           pipenv install --dev
       - name: Run lint
         run: |
-          pipenv run black src
+          pipenv run black lib
